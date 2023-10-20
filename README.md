@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qmmrhkj39edxmlv4?svg=true)](https://ci.appveyor.com/project/SergeiGolendukhin/web-interface)
